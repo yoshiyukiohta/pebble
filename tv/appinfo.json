@@ -1,0 +1,20 @@
+{
+  "uuid": "303c2289-a289-4377-9323-82ae9f8f4b2e",
+  "shortName": "tv",
+  "longName": "tv",
+  "companyName": "fufabu",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "init": 0,
+    "fetch": 1,
+    "symbol": 2,
+    "price": 3
+  },
+  "resources": {
+    "media": []
+  }
+}
